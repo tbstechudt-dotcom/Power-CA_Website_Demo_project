@@ -147,7 +147,7 @@ function App() {
                 : 'text-gray-600 hover:bg-gray-100'
             }`}
           >
-            Active
+            Active List
           </button>
           <button
             onClick={() => setFilter('completed')}
